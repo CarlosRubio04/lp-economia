@@ -24,11 +24,8 @@ body {
 h1,h2,h3,h4 {
   margin: 0;
 }
-h2 {
-
-}
-span {
-
+section {
+  padding: 40px 0;
 }
 label {
   color: #fff;
@@ -153,6 +150,27 @@ label {
   -webkit-transform: rotate(360deg);
   -moz-transform: rotate(360deg);
   -o-transform: rotate(360deg);
+}
+
+/*Hero*/
+.hero {
+  min-height: 80vh;
+  background-color: #00467c;
+  color: #fff;
+}
+.hero h1 {
+  line-height: 3;
+}
+
+/*CURSOS*/
+.tab-content {
+  margin-top: 40px;
+}
+.item {
+  background-color: #eee;
+}
+.description {
+  padding: 15px;
 }
 @media  (max-width: 768px) {
   
