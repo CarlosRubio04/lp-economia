@@ -33,16 +33,16 @@ label {
   font-weight: 100;
 }
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: #1a1a1a !important;
+  /*color: #1a1a1a !important;*/
 }
 ::-moz-placeholder { /* Firefox 19+ */
-  color: #1a1a1a !important;
+  /*color: #1a1a1a !important;*/
 }
 :-ms-input-placeholder { /* IE 10+ */
-  color: #1a1a1a !important;
+  /*color: #1a1a1a !important;*/
 }
 :-moz-placeholder { /* Firefox 18- */
-  color: #1a1a1a !important;
+  /*color: #1a1a1a !important;*/
 }
 /*Estilos del cargador al iniciarl la pagina*/
 
@@ -64,12 +64,14 @@ label {
 /*Carga de las imagenes*/
 
 /*Hero*/
+.form-group-big  a{
+  font-size: 9px;
+  color: #eee;
+  text-align: center;
+}
 .form-control {
-  color: #1a1a1a;
   font-weight: 800;
-  background-color: rgba(245,245,245,.13);
   border: 0;
-  border-radius: 20px;
   height: 40px;
 }
 .form-control:focus, .form-control:active {
@@ -78,25 +80,46 @@ label {
   -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px #fcf8e3;
   box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px #fcf8e3;
 }
-#contacto2 .form-control{
-  border: 1px solid #FFD13B;
-  color: #1a1a1a;
+.form-wrapper {
+  
+}
+.form-group {
+  width: 50%;
+  padding: 0 5px;
+}
+.form-group-big {
+  width: 100%;
+}
+.form-inputs-groups {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
 }
 .btn-sub {
-  -webkit-transition: all 2s ease-in-out;
-  -moz-transition: all 2s ease-in-out;
-  -o-transition: all 2s ease-in-out;
-  transition: all 2s ease-in-out;
+  background-color: #FFD13B;
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  -webkit-transition: all .9s ease-in-out;
+  -moz-transition: all .9s ease-in-out;
+  -o-transition: all .9s ease-in-out;
+  transition: all .9s ease-in-out;
+}
+.btn-sub:hover {
+  background-color: #337ab7;
+  color: #fff;
+}
+
+.modal-content {
+  background-color: #337ab7;
 }
 .close {
-  position: absolute;
-  top: 30vh;
-  right: 100px;
   color: #fff;
   -webkit-transition: all .6s ease-in-out;
   -moz-transition: all .6s ease-in-out;
   -o-transition: all .6s ease-in-out;
   transition: all .6s ease-in-out;
+  font-size: 30px;
 }
 .close:hover {
   color: #fff;
@@ -108,8 +131,8 @@ label {
 
 /*Hero*/
 .hero {
-  min-height: 80vh;
-  background-color: #FFD13B;
+  min-height: 50vh;
+  background-color: rgba(51, 122, 183, 0.7);
   background-image: url(../img/economicas.jpg);
   background-blend-mode: multiply;
   background-size: cover;
@@ -117,7 +140,7 @@ label {
   color: #fff;
 }
 .hero h1 {
-  line-height: 3;
+  margin: 20px 0;
 }
 
 /*CURSOS*/
@@ -218,5 +241,16 @@ footer {
   padding: 20px 0;
 }
 @media  (max-width: 768px) {
-
+  body {
+    font-size: 12px;
+  }
+  footer {
+    padding: 20px 5px;
+  }
+  .curse-name {
+    font-size: 18px;
+  }
+  .bs-example {
+    margin-top: 20px;
+  }
 }
