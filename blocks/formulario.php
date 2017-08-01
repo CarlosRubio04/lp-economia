@@ -7,18 +7,18 @@
 					<input type="text" class="form-control" name="nombre" placeholder="Nombre completo" required/>
 				</div>
 				<div class="form-group">
-					<input type="text" class="form-control" name="empresa" placeholder="Empresa" required/>
-				</div>
-				<div class="form-group">
-					<input type="text" class="form-control" name="cargo" placeholder="Cargo" required/>
-				</div>
-				<div class="form-group">
 					<input type="text" class="form-control" name="telefono" placeholder="Teléfono" required/>
 				</div>
 				<div class="form-group">
 					<input type="text" class="form-control" name="correo" placeholder="Email" required/>
 				</div>
 				<div class="form-group">
+					<select name="programa" id="programa" class="form-control" required>
+						<option value="">Programa</option>
+						<option value=""></option>
+					</select>
+				</div>
+				<div class="form-group text-center">
 					<label for="terminos">
 						<input type="checkbox" name="terminos" checked required> 
 						<i>Autorizo a ser contactado por teléfono o correo electrónico.</i>

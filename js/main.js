@@ -6,57 +6,11 @@ function cargar(){
 function descargar(){
   $('#loader').fadeOut();
 }
-
-var consulta = window.matchMedia('(max-width: 500px)');
-consulta.addListener(mediaQuery);
-
-var $burguerButton = document.getElementById('burguer-button');
-var $burguerButton2 = document.getElementById('burguer-button2');
-var $close = document.getElementById('close');
-var $menu = document.getElementById('menu');
-
-function toggleMenu(){
-  $menu.classList.toggle('active-menu');
-};
-
-function closeMenu(){
-  $menu.classList.remove('active-menu');
-};
-
-function mediaQuery() {
-  if (consulta.matches) {
-          // si se cumple hagamos esto
-          console.log('se cumplió la condicion');
-          $burguerButton.addEventListener('touchstart', toggleMenu);
-          $burguerButton2.addEventListener('touchstart', toggleMenu);
-          $close.addEventListener('touchstart', closeMenu);
-        } else {
-          $burguerButton.addEventListener('click', toggleMenu);
-          $burguerButton2 .addEventListener('click', toggleMenu);
-          $close.addEventListener('click', closeMenu);
-          // si no se cumple hagamos esto
-          console.log('no se cumplió la condicion');
-        }
-      }
-      mediaQuery();
-
 // carga asincronica de las imagenes
 var bLazy = new Blazy({ 
   selector: '.lazyImg' // all images
 });
 
-// Bx Slider
-$(document).ready(function(){
-  descargar();
-  $('.bxslider').bxSlider({
-    minSlides: 1,
-    maxSlides: 4,
-    slideWidth: 370,
-    slideMargin: 15
-  });
-});
-
-// Validacion del formulario
 // Validacion del formulario 1
 $('#contacto').validate(  {
   rules: {
@@ -179,4 +133,13 @@ $('#contacto2').validate(  {
     })
   }
 
+});
+
+$(document).ready(function() {
+  descargar();
+  $(".cta-btn").click(function(){
+    project = $(this).attr("data");
+    $("#myModal").find("#programa").val(project);
+    $("#myModal").modal("show");
+  });
 });
