@@ -4,10 +4,10 @@
 			<div class="col-md-12">
 				<img src="img/logo.png" alt="Universidad Javeriana" class="img-responsive center-block">
 				<h1 class="text-center">
-					Ciencias Económicas
+					Ciencias Económicas y Adminsitrativas
 				</h1>
 				<p class="text-center">
-					Some kind of description over here
+					Selecciona el programa de tu interés, ingresa tus datos y pronto te contactaremos:
 				</p>
 			</div>
 		</div>
@@ -23,9 +23,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h2 class="text-center">Some Tittle</h2>
+				<h2 class="text-center">Diplomados, Cursos y Programas Profesionales</h2>
 				<p class="text-center">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae eveniet, voluptatibus laborum modi tempora corporis autem laboriosam eum nulla pariatur, esse harum molestias quaerat soluta fuga, similique ea maiores, at.
+					Conoce algunos de nuestros programas de educación continua de la Facultad de Ciencias Económicas y Administrativas de la Pontifica Universidad Javeriana.
 				</p>
 			</div>
 		</div>
@@ -102,7 +102,7 @@
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Septienbre 27 de 2017</td>
+													<td>Septiembre 27 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
@@ -167,7 +167,7 @@
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Septienbre 26 de 2017</td>
+													<td>Septiembre 26 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
