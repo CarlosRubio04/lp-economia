@@ -54,7 +54,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/actualizacion-tributaria.jpg" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Actualización Tributaria">MÁS INFO</a>
 										</figcaption>
@@ -124,7 +124,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/gestion-riesgo.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Gestión del Riesgo Operativo y Continuidad del Negocio">MÁS INFO</a>
 										</figcaption>
@@ -194,7 +194,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/estrategias-marketing-digital.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Estrategias de Marketing y Canales Digitales">MÁS INFO</a>
 										</figcaption>
@@ -263,7 +263,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/gestionInmobiliario.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Gestión Inmobiliaria">MÁS INFO</a>
 										</figcaption>
@@ -334,7 +334,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/gerencia-financiera.jpg" alt="Gerencia" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Gerencia Financiera">MÁS INFO</a>
 										</figcaption>
@@ -405,7 +405,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/finanzasNoFinancieros.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Finanzas para No Financieros">MÁS INFO</a>
 										</figcaption>
@@ -476,7 +476,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/admi-auditoria-forense.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Administración del Riesgo y Auditoría Forense">MÁS INFO</a>
 										</figcaption>
@@ -544,7 +544,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/gestion-marketing-estrategico.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Gestión del Marketing Estratégico">MÁS INFO</a>
 										</figcaption>
@@ -615,7 +615,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/gerencia-proyectos.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Gerencia Comercial Estratégica">MÁS INFO</a>
 										</figcaption>
@@ -681,7 +681,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/alta-gerencia.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Habilidades de Liderazgo y Dirección">MÁS INFO</a>
 										</figcaption>
@@ -759,7 +759,7 @@
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="http://placehold.it/610x400" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/gerencia-proyectos.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
 											<a class="cta-btn" type="button" data="Gerencia de Proyectos">MÁS INFO</a>
 										</figcaption>
