@@ -4,7 +4,8 @@
 			<div class="col-md-12">
 				<img src="img/logo.png" alt="Universidad Javeriana" class="img-responsive center-block">
 				<h1 class="text-center">
-					Ciencias Económicas y Adminsitrativas
+					Educación Continua <br/>
+					Ciencias Económicas y Administrativas
 				</h1>
 				<p class="text-center">
 					Selecciona el programa de tu interés, ingresa tus datos y pronto te contactaremos:
@@ -23,7 +24,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h2 class="text-center">Diplomados, Cursos y Programas Profesionales</h2>
+				<h2 class="text-center">Diplomados, Cursos y Programas para Profesionales</h2>
 				<p class="text-center">
 					Conoce algunos de nuestros programas de educación continua de la Facultad de Ciencias Económicas y Administrativas de la Pontifica Universidad Javeriana.
 				</p>
