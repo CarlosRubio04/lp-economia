@@ -64,6 +64,9 @@ label {
 /*Carga de las imagenes*/
 
 /*Hero*/
+.error {
+  color: #fff;
+}
 .form-group-big  a{
   font-size: 9px;
   color: #eee;
@@ -109,7 +112,11 @@ label {
   background-color: #337ab7;
   color: #fff;
 }
-
+.modal-title {
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+}
 .modal-content {
   background-color: #337ab7;
 }

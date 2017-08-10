@@ -20,15 +20,8 @@ $('#contacto').validate(  {
     correo: {
       email: true,
       required: true,
-
     },
-    cargo: {
-      required: true,
-    },
-    empleados: {
-      required: true,
-    },
-    empresa: {
+    programa: {
       required: true,
     }
   },
@@ -45,16 +38,9 @@ $('#contacto').validate(  {
       required: "Por favor escribe tu E-mail",
       minlength: "Escribe un E-mail valido"
     },
-    cargo: {
-      required: "Por favor completa este campo",
-    },
-    empleados: {
-      required: "Por favor completa este campo",
-    },
-    empresa: {
+    programa: {
       required: "Por favor completa este campo",
     }
-
   },
   submitHandler: function(form){
     cargar();
@@ -62,8 +48,8 @@ $('#contacto').validate(  {
     .done(function(data){
       $('.form-control').val('');
       descargar();
-      //bootbox.alert(data, function() {console.log("Alert Callback");});
-      window.location.href = "?content=gracias";
+      bootbox.alert(data, function() {console.log("Alert Callback");});
+      //window.location.href = "?content=gracias";
     })
   }
 });
@@ -81,15 +67,8 @@ $('#contacto2').validate(  {
     correo: {
       email: true,
       required: true,
-
     },
-    cargo: {
-      required: true,
-    },
-    empleados: {
-      required: true,
-    },
-    empresa: {
+    programa: {
       required: true,
     }
   },
@@ -106,16 +85,9 @@ $('#contacto2').validate(  {
       required: "Por favor escribe tu E-mail",
       minlength: "Escribe un E-mail valido"
     },
-    cargo: {
-      required: "Por favor completa este campo",
-    },
-    empleados: {
-      required: "Por favor completa este campo",
-    },
-    empresa: {
+    programa: {
       required: "Por favor completa este campo",
     }
-
   },
   submitHandler: function(form){
     cargar();
@@ -123,8 +95,8 @@ $('#contacto2').validate(  {
     .done(function(data){
       $('.form-control').val('');
       descargar();
-      //bootbox.alert(data, function() {console.log("Alert Callback");});
-      window.location.href = "?content=gracias";
+      bootbox.alert(data, function() {console.log("Alert Callback");});
+      //window.location.href = "?content=gracias";
     })
   }
 
