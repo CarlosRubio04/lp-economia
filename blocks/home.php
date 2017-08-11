@@ -36,14 +36,14 @@
 	<div>
 		<!-- Nav tabs -->
 		<ul class="nav nav-pills nav-justified" role="tablist">
-			<li role="presentation" class="active"><a href="#cursos" aria-controls="cursos" role="tab" data-toggle="tab">Cursos</a></li>
-			<li role="presentation"><a href="#diplomado" aria-controls="diplomado" role="tab" data-toggle="tab">Diplomado</a></li>
+			<li role="presentation"><a href="#cursos" aria-controls="cursos" role="tab" data-toggle="tab">Cursos</a></li>
+			<li role="presentation" class="active"><a href="#diplomado" aria-controls="diplomado" role="tab" data-toggle="tab">Diplomado</a></li>
 			<li role="presentation"><a href="#diplomado-virtual" aria-controls="diplomado-virtual" role="tab" data-toggle="tab">Programa para Profesionales</a></li>
 		</ul>
 
 		<!-- Tab panes -->
 		<div class="tab-content">
-			<div role="tabpanel" class="tab-pane active" id="cursos">
+			<div role="tabpanel" class="tab-pane" id="cursos">
 				<!-- Contenedor de cusos -->
 				<div class="container-fluid">
 					<div class="row">
@@ -184,7 +184,7 @@
 					</div>
 				</div>
 			</div>
-			<div role="tabpanel" class="tab-pane" id="diplomado">
+			<div role="tabpanel" class="tab-pane active" id="diplomado">
 				<div class="container-fluid">
 					<div class="row">
 						<!-- CURSO Estrategias de Marketing y Canales Digitales-->
