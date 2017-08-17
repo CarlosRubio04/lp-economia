@@ -25,6 +25,9 @@
 						<option value="Gestión del Marketing Estratégico">Gestión del Marketing Estratégico</option>
 						<option value="Gerencia Comercial Estratégica">Gerencia Comercial Estratégica</option>
 						<option value="Habilidades de Liderazgo y Dirección">Habilidades de Liderazgo y Dirección</option>
+						<option value="Costeo Basado en Actividades">Costeo Basado en Actividades</option>
+						<option value="Evaluación y Selección de Proveedores">Evaluación y Selección de Proveedores</option>
+						<option value="Venta consultiva para equipos de alto rendimiento">Venta consultiva para equipos de alto rendimiento</option>
 						<option value="Gerencia de Proyectos">Gerencia de Proyectos</option>
 					</select>
 				</div>
