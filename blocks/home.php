@@ -99,11 +99,11 @@
 												</tr>									
 												<tr>
 													<th scope="row">Fecha de Inicio</th>
-													<td>Agosto 14 de 2017</td>
+													<td>Septiembre 18 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Septiembre 27 de 2017</td>
+													<td>Noviembre 1 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
@@ -182,27 +182,23 @@
 						</div>
 						<!-- Termina CURSO Gestión del Riesgo Operativo y Continuidad del Negocio-->
 					</div>
-				</div>
-			</div>
-			<div role="tabpanel" class="tab-pane active" id="diplomado">
-				<div class="container-fluid">
 					<div class="row">
-						<!-- CURSO Estrategias de Marketing y Canales Digitales-->
+						<!--Inicia Costeo Basado en Actividades-->
 						<div class="col-md-6">
 							<div class="item row">
 								<div class="col-md-12">
-									<h2 class="curse-name">Estrategias de Marketing y Canales Digitales</h2>
+									<h2 class="curse-name">Costeo Basado en Actividades</h2>
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="img/estrategias-marketing-digital.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/costeo-basado-en-actividades.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
-											<a class="cta-btn" type="button" data="Estrategias de Marketing y Canales Digitales">MÁS INFO</a>
+											<a class="cta-btn" type="button" data="Costeo Basado en Actividades">MÁS INFO</a>
 										</figcaption>
 									</figure>
 									<div class="description">
-										<p>Este diplomado brinda herramientas que le permitan al participante vincular la estrategia de marketing digital con las estrategias de la compañía, desarrollando un plan acertado para los mercados y los consumidores actuales.</p>
-										<a class="cta-btn" type="button" data="Estrategias de Marketing y Canales Digitales">MÁS INFO</a>
+										<p>Podrá entender la dinámica de acumulación del sistema de Costeo Basado en Actividades, teniendo claro los conceptos básicos de costos, el concepto de ciclo de vida y cadena de valor, de tal manera que les permita diseñar e implementar un sistema de costos ABC en la organización.</p>
+										<a class="cta-btn" type="button" data="Costeo Basado en Actividades">MÁS INFO</a>
 									</div>
 								</div>
 								<div class="col-md-7">
@@ -211,43 +207,41 @@
 											<tbody> 
 												<tr> 
 													<th scope="row">Horas</th> 
-													<td>102</td>
+													<td>32</td>
 												</tr>
 												<tr>
 													<th scope="row">Inversión</th>
-													<td>$3.890.000</td>
+													<td> $990.000 </td>
 												</tr>
 												<tr>
 													<th scope="row">Contenido</th>
 													<td> 
 														<ul>
-
-															<li>Módulo 1: Innovación y Creatividad.</li>
-															<li>Módulo 2: Fundamentos de Marketing Digital.</li>
-															<li>Módulo 3: Ecosistema Digital. Módulo</li>
-															<li>4. Taller Instagram, Facebook Ads y Google Adwords, Módulo</li>
-															<li>5: Tendencias de Marketing Digital. Módulo</li>
-															<li>6: Estrategias de Marketing Digital Integrando 2 esferas de Marketing. Módulo</li>
-															<li>7: Analítica Web y Presupuesto de Marketing.  Módulo 8: Aspectos Legales.</li>
+															<li>Módulo 1: Conceptos básicos de costos</li>
+															<li>Módulo 2: Ciclo de Vida</li>
+															<li>Módulo 3: Cadena de Valor</li>
+															<li>Módulo 4: Costeo Basado en Actividades - ABC</li>
+															<li>Módulo 5: Nuevo Costeo Basado en Actividades - ABC regido por el tiempo</li>
+															<li>Módulo 6: ABC tradicional vs tiempo</li>
+															<li>Módulo 7: ABM</li>
 														</ul>
-														
 													</td>
 												</tr>
 												<tr>
 													<th scope="row">Dirigido a</th>
-													<td>Profesionales y emprendedores vinculados a áreas de Marketing, Comunicaciones, Publicidad, Relaciones Publicas y afines.</td>
+													<td>Profesionales de la Vicepresidencia de gestión presupuestal y financiera</td>
 												</tr>									
 												<tr>
 													<th scope="row">Fecha de Inicio</th>
-													<td>Agosto 15 de 2017</td>
+													<td>Agosto 14 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Octubre 31 de 2017</td>
+													<td>Septiembre 20 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
-													<td>Martes, miércoles y jueves de 6:00 p.m. a 9:00 p.m.</td>
+													<td>Lunes y miércoles de 6:00 a 9:00 P.M.</td>
 												</tr>
 											</tbody> 
 										</table> 
@@ -255,23 +249,23 @@
 								</div>
 							</div>
 						</div>
-						<!-- Termina CURSO Estrategias de Marketing y Canales Digitales-->
-						<!-- CURSO Gestión Inmobiliaria-->
+						<!--Termina Costeo Basado en Actividades-->
+						<!--Inicia Evaluación y Selección de Proveedores-->
 						<div class="col-md-6">
 							<div class="item row">
 								<div class="col-md-12">
-									<h2 class="curse-name">Gestión Inmobiliaria</h2>
+									<h2 class="curse-name">Evaluación y Selección de Proveedores</h2>
 								</div>
 								<div class="col-md-5">
 									<figure>
-										<img src="img/gestionInmobiliario.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
+										<img src="img/evaluacion-proveedores.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
 										<figcaption>
-											<a class="cta-btn" type="button" data="Gestión Inmobiliaria">MÁS INFO</a>
+											<a class="cta-btn" type="button" data="Evaluación y Selección de Proveedores">MÁS INFO</a>
 										</figcaption>
 									</figure>
 									<div class="description">
-										<p>Fortalece competencias clave para inspirar un pensamiento estratégico en el mercado inmobiliario, la gestión financiera de proyectos urbanísticos o campestres y el derecho inmobiliario, para el mejoramiento del nivel de competitividad en el sector.</p>
-										<a class="cta-btn" type="button" data="Gestión Inmobiliaria">MÁS INFO</a>
+										<p>Aprenderá a realizar un correcto análisis y una toma de decisiones acertada para los procesos de evaluación y de selección de proveedores, profundizando en los conceptos e instrumentos para la gestión integral, desde su búsqueda y contactación, hasta su contratación, negociación y desarrollo.</p>
+										<a class="cta-btn" type="button" data="Evaluación y Selección de Proveedores">MÁS INFO</a>
 									</div>
 								</div>
 								<div class="col-md-7">
@@ -280,43 +274,38 @@
 											<tbody> 
 												<tr> 
 													<th scope="row">Horas</th> 
-													<td>111</td>
+													<td>32</td>
 												</tr>
 												<tr>
 													<th scope="row">Inversión</th>
-													<td>$4.550.000</td>
+													<td> $990.000 </td>
 												</tr>
 												<tr>
 													<th scope="row">Contenido</th>
 													<td> 
-														<ul>   
-															<li>Módulo 1: Introducción a los conceptos de ciudad y a la actividad inmobiliaria.</li>
-															<li>Módulo 2: Avalúos comerciales y aplicación de normatividad urbana. Módulo</li>
-															<li>3: Aspectos legales. Módulo</li>
-															<li>4: Gestión estratégica.</li>
-															<li>Módulo 5: Mercadeo aplicado al sector inmobiliario.</li>
-															<li> Módulo 6: Habilidades en ventas.</li>
-															<li>Módulo 7: Gestión financiera.</li>
-															<li>Módulo 8: Habilidades gerenciales. Módulo 9: Estudio de casos.</li>
+														<ul>
+															<li>Módulo 1: Marco estratégico de aprovisionamiento.</li>
+															<li>Módulo 2: Contactación y evaluación de proveedores.</li>
+															<li>Módulo 3: Selección, contratación y seguimiento de proveedores.</li>
+															<li>Módulo 4: Desarrollo de proveedores y negociación.</li>
 														</ul>
-														
 													</td>
 												</tr>
 												<tr>
 													<th scope="row">Dirigido a</th>
-													<td>Profesionales de las distintas disciplinas que estén vinculados o deseen trabajar en el sector inmobiliario.</td>
+													<td>Profesionales de distintas áreas, de departamentos de compras y contratación,  que deseen profundizar sobre los procesos de evaluación y selección de proveedores.</td>
 												</tr>									
 												<tr>
 													<th scope="row">Fecha de Inicio</th>
-													<td>Agosto 15 de 2017</td>
+													<td>Octubre 13 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Noviembre 15 de 2017</td>
+													<td>Noviembre 10 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
-													<td>Martes a jueves de 6:00 PM a 9:00 PM</td>
+													<td>Martes y jueves de 6:00 a 9:00 P.M.</td>
 												</tr>
 											</tbody> 
 										</table> 
@@ -324,8 +313,77 @@
 								</div>
 							</div>
 						</div>
-						<!-- Termina CURSO Gestión Inmobiliaria-->
+						<!--Termina Evaluación y Selección de Proveedores-->
 					</div>
+					<div class="row">
+						<!--Inicia Venta consultiva para equipos de alto rendimiento-->
+						<div class="col-md-6">
+							<div class="item row">
+								<div class="col-md-12">
+									<h2 class="curse-name">Venta consultiva para equipos de alto rendimiento</h2>
+								</div>
+								<div class="col-md-5">
+									<figure>
+										<img src="img/venta-equipos.jpg" alt="Name of the Curse" class="img-responsive curse-pic">
+										<figcaption>
+											<a class="cta-btn" type="button" data="Venta consultiva para equipos de alto rendimiento">MÁS INFO</a>
+										</figcaption>
+									</figure>
+									<div class="description">
+										<p>La competencia ha aumentado en cantidad de empresas, similares, con diferenciales, con propuestas cada vez más complejas, haciendo más complicada la actividad de ventas, en donde se debe fortalecer la estrategia para no depender del precio en la toma de decisión del consumidor final y del conocimiento de sus propuestas para saber confrontarlas y mantener el posicionamiento frente al cliente.</p>
+										<a class="cta-btn" type="button" data="Venta consultiva para equipos de alto rendimiento">MÁS INFO</a>
+									</div>
+								</div>
+								<div class="col-md-7">
+									<div class="bs-example" data-example-id="striped-table">
+										<table class="table table-striped table-bordered"> 
+											<tbody> 
+												<tr> 
+													<th scope="row">Horas</th> 
+													<td>56</td>
+												</tr>
+												<tr>
+													<th scope="row">Inversión</th>
+													<td> $1.490.000 </td>
+												</tr>
+												<tr>
+													<th scope="row">Contenido</th>
+													<td> 
+														<ul>
+															<li>Modulo 1: Venta consultiva</li>
+															<li>Módulo 2: Las seis dimensiones de la venta consultiva</li>
+															<li>Módulo 3: Desarrollo estratégico del vendedor</li>
+														</ul>
+													</td>
+												</tr>
+												<tr>
+													<th scope="row">Dirigido a</th>
+													<td>Personas que en su labor diaria cumplan funciones comerciales en todo nivel.</td>
+												</tr>									
+												<tr>
+													<th scope="row">Fecha de Inicio</th>
+													<td>Octubre 3 de 2017</td>
+												</tr>
+												<tr>
+													<th scope="row">Fecha Finalización</th>
+													<td>Pendiente</td>
+												</tr>
+												<tr>
+													<th scope="row">Horario</th>
+													<td>Viernes de 7:00 a 9:00 a.m. y sábados de 7:00 a 12:00 m.</td>
+												</tr>
+											</tbody> 
+										</table> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<!--Termina Venta consultiva para equipos de alto rendimiento-->
+					</div>
+				</div>
+			</div>
+			<div role="tabpanel" class="tab-pane active" id="diplomado">
+				<div class="container-fluid">
 					<div class="row">
 						<!-- CURSO Gerencia Financiera-->
 						<div class="col-md-6">
@@ -450,11 +508,11 @@
 												</tr>									
 												<tr>
 													<th scope="row">Fecha de Inicio</th>
-													<td>Septiembre 5 de 2017</td>
+													<td>Septiembre 12 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Noviembre 29 de 2017</td>
+													<td>Diciemrbe 12 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
@@ -657,11 +715,11 @@
 												</tr>									
 												<tr>
 													<th scope="row">Fecha de Inicio</th>
-													<td>Septiembre 5 de 2017</td>
+													<td>Septiembre 12 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Fecha Finalización</th>
-													<td>Diciembre 5 de 2017</td>
+													<td>Diciembre 12 de 2017</td>
 												</tr>
 												<tr>
 													<th scope="row">Horario</th>
