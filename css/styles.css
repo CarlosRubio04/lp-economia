@@ -154,6 +154,7 @@ label {
 .tab-content {
   margin-top: 40px;
 }
+
 .nav-pills>li>a {
   border-radius: 0px;
   font-weight: 700;
@@ -164,6 +165,9 @@ label {
   -moz-transition: all .5s ease-in-out;
   -o-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
+}
+.nav-pills>li>a:hover {
+  background-color: #ffe89d !important;
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus {
   background-color: #FFD13B;
